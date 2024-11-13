@@ -1,4 +1,4 @@
-# Posting Comments Under Differential Privacy
+# Posting-Comments-Under-Differential-Privacy
 
 ### Research Paper Title: _Posting Comments Under Differential Privacy_
 
@@ -63,6 +63,6 @@ Four scenarios were tested for sensitive word replacement (top 2 or 3 words with
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/Posting-Comments-Under-Differential-Privacy.git
+   git clone https://github.com/NiharSodhaparmar/Posting-Comments-Under-Differential-Privacy.git
    cd Posting-Comments-Under-Differential-Privacy
    ```
