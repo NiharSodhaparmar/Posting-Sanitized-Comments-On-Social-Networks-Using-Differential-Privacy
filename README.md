@@ -1,6 +1,6 @@
-# Posting-Comments-Under-Differential-Privacy
+# Posting-Sanitized-Comments-On-Social-Networks-Using-Differential-Privacy
 
-### Research Paper Title: _Posting Comments Under Differential Privacy_
+### Research Paper Title: _Posting Sanitized Comments On Social Networks Using Differential Privacy_
 
 **Authors**: Nihar Sodhaparmmar, Abdessamad Imine, Sankita Patel  
 **Institutions**: Sardar Vallabhbhai National Institute of Technology, India; Lorraine University, France
