@@ -63,6 +63,6 @@ Four scenarios were tested for sensitive word replacement (top 2 or 3 words with
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/NiharSodhaparmar/Posting-Comments-Under-Differential-Privacy.git
-   cd Posting-Comments-Under-Differential-Privacy
+   git clone https://github.com/NiharSodhaparmar/Posting-Sanitized-Comments-On-Social-Networks-Using-Differential-Privacy
+   cd Posting-Sanitized-Comments-On-Social-Networks-Using-Differential-Privacy
    ```
