@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository accompanies the research paper "_Posting Comments Under Differential Privacy_," which addresses privacy concerns on social media by developing a method to obscure sensitive user data within comments and tweets. The approach uses Differential Privacy (DP) to replace sensitive words, misleading inference models while preserving the overall meaning. We evaluate our method on real social media datasets, achieving reduced classifier accuracy on sensitive attributes such as gender and political affiliation while maintaining high semantic similarity between the original and differentially private text.
+This repository accompanies the research paper "_Posting Sanitized Comments On Social Networks Using Differential Privacy_," which addresses privacy concerns on social media by developing a method to obscure sensitive user data within comments and tweets. The approach uses Differential Privacy (DP) to replace sensitive words, misleading inference models while preserving the overall meaning. We evaluate our method on real social media datasets, achieving reduced classifier accuracy on sensitive attributes such as gender and political affiliation while maintaining high semantic similarity between the original and differentially private text.
 
 ---
 
